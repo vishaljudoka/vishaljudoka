@@ -1,5 +1,38 @@
-# 💫 About Me:
-Hi, I’m Vishal (Vish) — a DevOps/CloudOps Engineer focused on building reliable, secure, and automated cloud platforms.<br>I work with AWS, Terraform, CI/CD, Docker/Kubernetes, and observability tooling, and I’m exploring AI + automation to streamline operations.<br><br>🔭 I’m currently working on<br>Building and improving AWS infrastructure using Terraform, strengthening CI/CD pipelines, and improving monitoring/alerts for production systems.<br><br>👯 I’m looking to collaborate on<br>Open-source DevOps tooling, Terraform modules, GitHub Actions pipelines, Kubernetes utilities, and automation scripts for cloud operations.<br><br>🤝 I’m looking for help with<br>MLOps/LLMOps basics, production-grade observability patterns, and best practices for securing Kubernetes and cloud workloads.<br><br>🌱 I’m currently learning<br>Kubernetes (advanced), GitOps (Argo CD/Flux), AWS security best practices, and AI-driven automation for DevOps workflows.<br><br>💬 Ask me about<br>AWS, Terraform/IaC, CI/CD (GitHub Actions/Jenkins), Docker/Kubernetes, Linux, monitoring (Prometheus/Grafana), and incident troubleshooting.<br><br>⚡ Fun fact<br>I love turning repetitive ops work into one-click automation—and I prefer “infra as code” over “docs as hope”.
+# 👋 Hi, I'm Vishal (Vish)
+
+Cloud & DevOps Engineer with **10+ years of experience** building and operating
+**secure, scalable, and automated cloud platforms**.
+
+I work with **AWS, Terraform, CI/CD, Docker/Kubernetes**, and observability.
+Recently exploring **automation-first workflows** (n8n), **MCP learning**, and a bit of **vibecoding**.
+
+---
+
+## 💫 About Me
+
+🔭 **Currently working on**
+- AWS infrastructure automation using Terraform
+- CI/CD pipelines (GitHub Actions + Jenkins)
+- Monitoring and alerting improvements for production systems
+
+👯 **Looking to collaborate on**
+- Terraform modules / reference architectures
+- CI/CD templates (GitHub Actions, Jenkins)
+- Kubernetes utilities and ops automation
+
+🌱 **Currently learning**
+- Kubernetes (advanced) + production operations
+- **MCP (Model Context Protocol)** fundamentals and integrations
+- **n8n** automation workflows
+- Vibecoding (pragmatic building + iteration)
+
+💬 **Ask me about**
+- AWS architecture, Terraform/IaC, CI/CD
+- Docker/Kubernetes, Linux troubleshooting
+- Observability (Prometheus/Grafana/OpenTelemetry)
+
+⚡ **Fun fact**
+- `python -c "import antigravity"` is the most underrated productivity hack.
 
 
 ## 🌐 Socials:
@@ -12,8 +45,13 @@ Hi, I’m Vishal (Vish) — a DevOps/CloudOps Engineer focused on building relia
 ![](https://nirzak-streak-stats.vercel.app/?user=vishaljudoka&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljudoka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishaljudoka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Current Focus (2025)
+
+- Designing a **production-grade AWS platform** using Terraform (secure-by-default)
+- Building **reliable CI/CD** workflows for infra + apps
+- Improving **observability** using Prometheus, Grafana, and OpenTelemetry
+- Building automation with **n8n** and experimenting with **MCP-based integrations**
+- Shipping faster with **vibecoding** while keeping systems stable
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishaljudoka&icon=0&color=0)](https://visitcount.itsvg.in)
